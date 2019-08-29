@@ -1,4 +1,4 @@
-# BugCode
+# BugCode-in-C
 This project focuses on BUG code written in various languages. You can submit bugs that you have written or discovered. You can also write some bugs that are hard to detect. I think writing a bug is also a learning process that allows us to avoid making these mistakes in real projects.  No bugs, no fun！
 
-Note: The mainline version does not accept any code, please submit the code to the branch of the corresponding language
+This branch accepts bug code written in C!
